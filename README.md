@@ -8,9 +8,9 @@ arrives.
 
 | Your computer | Download |
 | --- | --- |
-| **Mac** (Apple Silicon or Intel) | [Tephlo-Mac.dmg](https://github.com/msawadogo/tephlo-desktop/releases/latest/download/Tephlo-Mac.dmg) |
-| **Windows** PC | [Tephlo-Setup-Windows.exe](https://github.com/msawadogo/tephlo-desktop/releases/latest/download/Tephlo-Setup-Windows.exe) |
-| Windows on ARM (Surface Pro X, Snapdragon laptops) | [Tephlo-Setup-Windows-ARM.exe](https://github.com/msawadogo/tephlo-desktop/releases/latest/download/Tephlo-Setup-Windows-ARM.exe) |
+| **Mac** (Apple Silicon or Intel) | [Tephlo-Mac.dmg](https://github.com/mymoot10/tephlo-desktop/releases/latest/download/Tephlo-Mac.dmg) |
+| **Windows** PC | [Tephlo-Setup-Windows.exe](https://github.com/mymoot10/tephlo-desktop/releases/latest/download/Tephlo-Setup-Windows.exe) |
+| Windows on ARM (Surface Pro X, Snapdragon laptops) | [Tephlo-Setup-Windows-ARM.exe](https://github.com/mymoot10/tephlo-desktop/releases/latest/download/Tephlo-Setup-Windows-ARM.exe) |
 
 Not sure which Windows file you need? Use the first one — it works on every
 Windows 10 and 11 PC.
